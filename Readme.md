@@ -1,0 +1,3 @@
+# first backend project with java script
+
+model link(https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGxQcmhhQnE4UUExNnZ2Q2g5WUdIZ2tsSlQyQXxBQ3Jtc0tsNXJmSHk0QU01QjNWcXg3eGZHUnBFZzBlczFQazFOMFN2RUd5azBEcDhOX1FCTTN2SjR4SVdkTUpIWExuMlhENkNPQThFcGNNUXZ2LXlVTExyTlNraldGOUMxakk3dVNBRkZhTDRZZnVuNUp6a2ttOA&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
